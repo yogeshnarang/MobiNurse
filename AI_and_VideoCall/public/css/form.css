@@ -1,0 +1,24 @@
+h3{
+    text-transform: uppercase;
+    color: #488A99;
+    font-size: 1.2em !important; 
+
+}
+
+.display-4{
+    color: #488A99;
+}
+
+.btn{
+    background-color: #488A99 !important;
+    color:white !important;
+}
+
+.btn-add {
+    margin: 1em 0em ;
+}
+
+input{
+    background-color:rgb(233, 236, 239) !important;
+    height: 2.5em !important;
+}
