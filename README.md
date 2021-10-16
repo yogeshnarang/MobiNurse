@@ -37,9 +37,10 @@ npm i
 node app.js
 ```
 
-For Named Entity Recognition model & Videocall
+For AI & Videocall
 ```
 npm i
-node server.js
+pip install -r requirements.txt
+npm start
 ```
 
