@@ -27,21 +27,18 @@ Our AI Bot writes the prescription for you, by hearing in on your patient doctor
 
 For Frontend
 ```
-cd Frontend
 npm i
 npm start
 ```
 
 For Backend
 ```
-cd backend
 npm i
 node app.js
 ```
 
 For Named Entity Recognition model & Videocall
 ```
-cd Artificial\ Intelligence\ and\ Video\ Call
 npm i
 node server.js
 ```
