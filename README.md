@@ -1,9 +1,9 @@
-# MobiNurse
-Mobinurse uses AI to auto-generate prescriptions by hearing in on doctor-patient conversations and provides a world-class platform for doctors and patients to book, manage and attend appointments.
-
 
 # MOBINURSE
 ## Developed for Hack It Out Team GithubNhiAata
+
+Mobinurse uses AI to auto-generate prescriptions by hearing in on doctor-patient conversations and provides a world-class platform for doctors and patients to book, manage and attend appointments.
+
 
 ## Brief Overview
 There’s a very evident reason on why we need to bring about a revolution in the healthcare system. The pandemic not just temporarily affected our lives, but also altered our livestyle permanently. 
